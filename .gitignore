@@ -123,3 +123,6 @@ Temporary Items
 .apdisk
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,eclipse,java
+.classpath
+.project
+WebContent/META-INF/MANIFEST.MF
